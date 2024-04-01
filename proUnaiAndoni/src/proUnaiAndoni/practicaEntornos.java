@@ -10,7 +10,7 @@ public class practicaEntornos {
 		System.out.println("Conflicto con Andoni");
 		System.out.println("Conflicto sin Andoni");
 		System.out.println("hola mundo");
-		System.out.println("·");
+	
 	}
 	
 
