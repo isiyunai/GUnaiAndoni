@@ -12,6 +12,4 @@ public class practicaEntornos {
 		System.out.println("hola mundo");
 
 	}
-	
-
 }
